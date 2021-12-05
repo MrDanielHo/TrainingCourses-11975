@@ -1,2 +1,2 @@
-# AutomateTheBoringStuff
-Collection of the programs from the course Automate the Boring Stuff with Python
+# Udemy Courses
+Collection of the Udemy course that I have collected over the years.
