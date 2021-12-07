@@ -51,15 +51,15 @@ strip()     removes all outer white space
 rstrip()    removes outer right white space
 lstrip()    removes outer left white space
 '''
-# hello = 'greetings and salutations'.center(50)
-# print(f"{hello.strip()}")
+hello = 'greetings and salutations'.center(50)
+print(f"{hello.strip()}")
 
-# userName = "                    TheGreek                    "
-# print("|" + userName.strip() + "|")
-# print("|" + userName.lstrip() + "|")
-# print("|" + userName.rstrip() + "|")
+userName = "                    TheGreek                    "
+print("|" + userName.strip() + "|")
+print("|" + userName.lstrip() + "|")
+print("|" + userName.rstrip() + "|")
 
-# print("5321432145Hello12354Goodbye5123542135154".strip("12345"))
+print("5321432145Hello12354Goodbye5123542135154".strip("12345"))
 
-# print("5321432145Hello12345Goodbye5123542135154".replace("12345","ABCDE"))
+print("5321432145Hello12345Goodbye5123542135154".replace("12345","ABCDE"))
 
